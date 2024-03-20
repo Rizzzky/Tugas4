@@ -41,9 +41,10 @@ public class Sepeda {
     }
 
     void infoSepeda(){
+        System.out.println("---------------------------------------");
         System.out.println("1.Merk Sepeda: " + getMerk());
         System.out.println("2.Ukuran Ban: " + getUkuran());
         System.out.println("3.Harga Sepeda: " + getHarga());
-        System.out.println("---------------------------------------");
+        
     }
 }
