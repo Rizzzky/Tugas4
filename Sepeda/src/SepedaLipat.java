@@ -18,8 +18,8 @@ public class SepedaLipat extends Sepeda {
     @Override
     void infoSepeda(){
         super.infoSepeda();
-        System.out.println("Tipe: " + tipe);
-        System.out.println("Speed: " + getSpeed());
-        System.out.println("---------------------------------------");
+        System.out.println("4.Tipe: " + tipe);
+        System.out.println("5.Speed: " + getSpeed());
+        
     }
 }
